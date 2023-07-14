@@ -1,6 +1,7 @@
 ### Hi there 👋  
 
-I'm shayan. A list of my developed repos is available at https://shayansss.github.io/opendata.</div>  
+You can see a list of my open-sourced projects at https://shayansss.github.io/opendata.
+
 
 <div align="center">
 <a href="https://github.com/shayansss" target="_blank">
