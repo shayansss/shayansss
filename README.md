@@ -3,7 +3,7 @@
 You can see a list of my open-sourced projects at https://shayansss.github.io/opendata.
 
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/shayansss" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
