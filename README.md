@@ -12,13 +12,7 @@ I'm shayan. A list of my developed repos is available at https://shayansss.githu
 <a href="https://twitter.com/s_shayan_s" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
+</div>
 
 
 <!--
