@@ -8,4 +8,4 @@ Parts of my academic research data are allowed to be open-sourced, as follows:
 
 - [PMSE: Pointwise Mean Squared Error](https://github.com/shayansss/pmse): Implementation of a simple pointwise metric for machine-learning-based surrogate modeling in Python using Keras and Abaqus.
   
-- [Fortran UMAT, FLOW, and SDVINI subroutines for a multiphysics and fibril-reinforced model of articular cartilage](https://github.com/shayansss/msc): This code is the Fortran 77 version of the UMAT, FLOW, and SDVINI subroutines of the cartilage model, I firstly proposed in my Master's thesis. The model with minor modifications was used in several publications.
+- [BioUMAT: Abaqus Fortran subroutine for cartilage multiphasic modeling](https://github.com/shayansss/msc): This code is the Fortran 77 version of the UMAT, FLOW, and SDVINI subroutines of the cartilage model, I firstly proposed in my Master's thesis. The model with minor modifications was used in several publications.
