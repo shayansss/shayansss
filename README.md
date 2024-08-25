@@ -1,6 +1,4 @@
-# Hi there 👋  
-
-Parts of my academic research data are allowed to be open-sourced, as follows:
+# PhD and MSc Research Data
 
 - [EHML: Extended Hybrid Machine Learning](https://github.com/shayansss/ehml): Implementation of several extensions, including physics-constrained data augmentation, on multi-fidelity surrogate modeling using TensorFlow and Abaqus.
 - [PSA: Pre-Stress Algorithm](https://github.com/shayansss/psa): This is a unified optimizer for large-scale pre-stressing analysis in articular cartilage models using Abaqus Fortran subroutines and Python scripts.
