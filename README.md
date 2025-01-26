@@ -5,3 +5,7 @@
 - [HML: Hybrid Machine Learning](https://github.com/shayansss/hml): Implementation of a new hybrid machine learning technique for multi-fidelity surrogates of finite elements models with applications in multi-physics modeling of soft tissues.
 - [PMSE: Pointwise Mean Squared Error](https://github.com/shayansss/pmse): Implementation of a simple pointwise metric for machine-learning-based surrogate modeling in Python using Keras and Abaqus.
 - [BioUMAT: Abaqus Fortran subroutine for cartilage multiphasic modeling](https://github.com/shayansss/msc): This code is the Fortran 77 version of the UMAT, FLOW, and SDVINI subroutines of the cartilage model, I firstly proposed in my Master's thesis. The model with minor modifications was used in several publications.
+
+You can also download the LaTeX source code of my PhD dissertation from [this](https://github.com/shayansss/PhD) repository.
+
+**Note that I cannot share my other data due to the code privacy related to my other jobs!**
