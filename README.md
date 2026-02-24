@@ -1,11 +1,31 @@
-# My PhD and MSc Research Data
+# PhD and MSc Research Projects
 
-- [EHML: Extended Hybrid Machine Learning](https://github.com/shayansss/ehml): Implementation of several extensions, including physics-constrained data augmentation, on multi-fidelity surrogate modeling using TensorFlow and Abaqus.
-- [PSA: Pre-Stress Algorithm](https://github.com/shayansss/psa): This is a unified optimizer for large-scale pre-stressing analysis in articular cartilage models using Abaqus Fortran subroutines and Python scripts.
-- [HML: Hybrid Machine Learning](https://github.com/shayansss/hml): Implementation of a new hybrid machine learning technique for multi-fidelity surrogates of finite elements models with applications in multi-physics modeling of soft tissues.
-- [PMSE: Pointwise Mean Squared Error](https://github.com/shayansss/pmse): Implementation of a simple pointwise metric for machine-learning-based surrogate modeling in Python using Keras and Abaqus.
-- [BioUMAT: Abaqus Fortran subroutine for cartilage multiphasic modeling](https://github.com/shayansss/msc): This code is the Fortran 77 version of the UMAT, FLOW, and SDVINI subroutines of the cartilage model, I firstly proposed in my Master's thesis. The model with minor modifications was used in several publications.
-- You can also download the LaTeX source code of my PhD dissertation from [this](https://github.com/shayansss/PhD) repository.
+Below is a selection of repositories related to my doctoral and master’s research work:
+
+* **EHML: Extended Hybrid Machine Learning**
+  Implementation of advanced extensions to hybrid machine learning frameworks, including physics-constrained data augmentation for multi-fidelity surrogate modeling. Developed using TensorFlow and integrated with Abaqus finite element simulations.
+  Repository: [https://github.com/shayansss/ehml](https://github.com/shayansss/ehml)
+
+* **PSA: Pre-Stress Algorithm**
+  A unified optimization framework for large-scale pre-stressing analysis in articular cartilage models. Implemented using Abaqus Fortran subroutines combined with Python-based automation scripts.
+  Repository: [https://github.com/shayansss/psa](https://github.com/shayansss/psa)
+
+* **HML: Hybrid Machine Learning**
+  Implementation of a novel hybrid machine learning methodology for multi-fidelity surrogate modeling of finite element simulations, with applications in multi-physics modeling of soft biological tissues.
+  Repository: [https://github.com/shayansss/hml](https://github.com/shayansss/hml)
+
+* **PMSE: Pointwise Mean Squared Error**
+  Development of a pointwise error metric tailored for machine-learning-based surrogate modeling. Implemented in Python using Keras and coupled with Abaqus simulations.
+  Repository: [https://github.com/shayansss/pmse](https://github.com/shayansss/pmse)
+
+* **BioUMAT: Abaqus Fortran Subroutines for Cartilage Multiphase Modeling**
+  Fortran 77 implementation of UMAT, FLOW, and SDVINI subroutines for a multiphasic cartilage model originally proposed in my Master’s thesis. With minor refinements, this model has been used in multiple peer-reviewed publications.
+  Repository: [https://github.com/shayansss/msc](https://github.com/shayansss/msc)
+
+* **PhD Dissertation**
+  The full LaTeX source code of my doctoral dissertation is available here:
+  Repository: [https://github.com/shayansss/PhD](https://github.com/shayansss/PhD)
 
 # Other Data
-I cannot share my other data due to the code privacy related to my other jobs!
+
+Due to confidentiality agreements related to my professional engagements, I am unable to share other datasets and proprietary code developed in the context of industry projects.
